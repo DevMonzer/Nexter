@@ -1,2 +1,2 @@
 # Nexter
-Nexter app
+Nexter app watch live -> https://devmonzer.github.io/Nexter/
