@@ -6,3 +6,10 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 6rem;
 }
+
+.feature {
+  &__icon {
+    fill: $color-primary;
+    width: 4.5rem;
+  }
+}
