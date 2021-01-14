@@ -49,4 +49,5 @@ body {
   grid-column: full-start / full-end; }
 
 .footer {
-  background-color: #101d2c; }
+  background-color: #101d2c;
+  grid-column: full-start / full-end; }
