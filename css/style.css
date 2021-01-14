@@ -24,6 +24,9 @@ body {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 600; }
 
+.heading-4--light {
+  color: #f9f7f6; }
+
 .sidebar {
   background-color: #c69963;
   grid-column: sidebar-start / sidebar-end;
