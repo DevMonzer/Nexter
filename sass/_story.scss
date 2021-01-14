@@ -4,6 +4,10 @@
     grid-column: full-start / col-end 4;
   }
 
+  &__img--1 {
+    width: 100%;
+  }
+
   &__content {
     background-color: $color-grey-light-1;
     grid-column: col-start 5 / full-end;
