@@ -37,8 +37,8 @@ body {
   grid-column: col-start 7 / full-end; }
 
 .features {
-  background-color: #6d5d4b;
   grid-column: center-start / center-end;
+  margin: 15rem 0;
   display: grid;
   grid-template-columns: repeat(3, 1fr); }
 
