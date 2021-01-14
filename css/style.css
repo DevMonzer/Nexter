@@ -45,7 +45,8 @@ body {
   background-color: #f9f7f6; }
 
 .homes {
-  background-color: #101d2c; }
+  background-color: #101d2c;
+  grid-column: center-start / center-end; }
 
 .gallery {
   background-color: #f9f7f6;
