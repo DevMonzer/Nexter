@@ -56,7 +56,8 @@ body {
   .feature__icon {
     fill: #c69963;
     width: 4.5rem;
-    height: 4.5rem; }
+    height: 4.5rem;
+    grid-row: 1 / span 2; }
   .feature__text {
     font-size: 1.7rem; }
 
