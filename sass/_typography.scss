@@ -9,6 +9,9 @@
 
 .heading-2 {
   @extend %heading;
+  font-size: 4rem;
+  font-style: italic;
+  line-height: 1;
 }
 
 .heading-3 {
