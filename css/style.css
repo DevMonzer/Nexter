@@ -27,6 +27,9 @@ body {
 .heading-4--light {
   color: #f9f7f6; }
 
+.heading-4--dark {
+  color: #54483a; }
+
 .sidebar {
   background-color: #c69963;
   grid-column: sidebar-start / sidebar-end;
