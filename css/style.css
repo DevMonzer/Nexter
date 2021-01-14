@@ -30,6 +30,8 @@ body {
   line-height: 1; }
   .heading-2--light {
     color: #f9f7f6; }
+  .heading-2--dark {
+    color: #54483a; }
 
 .heading-4 {
   font-size: 1.9rem; }
