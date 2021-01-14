@@ -38,7 +38,8 @@ body {
 
 .features {
   background-color: #6d5d4b;
-  grid-column: center-start / center-end; }
+  grid-column: center-start / center-end;
+  display: grid; }
 
 .story__pictures {
   background-color: #c69963;
