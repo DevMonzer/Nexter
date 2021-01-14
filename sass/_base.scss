@@ -45,4 +45,9 @@ body {
     )
     [center-end] 1fr
     [full-end];
+
+  & > * {
+    padding: 4rem;
+    font-size: 3rem;
+  }
 }
