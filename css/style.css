@@ -120,7 +120,11 @@ body {
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.1); }
 
 .story__img--2 {
-  width: 115%; }
+  width: 115%;
+  grid-row: 4 / 6;
+  grid-column: 4 / 7;
+  z-index: 20;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2); }
 
 .story__content {
   background-color: #f9f7f6;
