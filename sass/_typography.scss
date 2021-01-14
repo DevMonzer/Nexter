@@ -2,3 +2,7 @@
   font-family: $font-display;
   font-weight: 600;
 }
+
+.heading-1 {
+  @extend %heading;
+}
