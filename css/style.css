@@ -33,7 +33,8 @@ body {
   grid-column: full-start / col-end 6; }
 
 .realtors {
-  background-color: #101d2c; }
+  background-color: #101d2c;
+  grid-column: col-start 7 / full-end; }
 
 .features {
   background-color: #6d5d4b;
