@@ -33,6 +33,11 @@ body {
   .heading-2--dark {
     color: #54483a; }
 
+.heading-3 {
+  font-size: 1.6rem;
+  color: #c69963;
+  text-transform: uppercase; }
+
 .heading-4 {
   font-size: 1.9rem; }
   .heading-4--light {
