@@ -64,5 +64,12 @@
 
     display: flex;
     align-items: center;
+
+    svg {
+      fill: $color-primary;
+      height: 2rem;
+      width: 2rem;
+      margin-right: 1rem;
+    }
   }
 }

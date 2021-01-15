@@ -189,6 +189,11 @@ body {
     margin-left: 2rem;
     display: flex;
     align-items: center; }
+    .home__location svg, .home__rooms svg, .home__area svg, .home__price svg {
+      fill: #c69963;
+      height: 2rem;
+      width: 2rem;
+      margin-right: 1rem; }
 
 .gallery {
   background-color: #f9f7f6;
