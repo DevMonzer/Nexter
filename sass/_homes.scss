@@ -9,4 +9,8 @@
 
 .home {
   background-color: $color-grey-light-1;
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-row-gap: 3.5rem;
 }
