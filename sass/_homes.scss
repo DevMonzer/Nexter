@@ -49,4 +49,9 @@
     font-weight: 400;
     transform: translateY(50%);
   }
+
+  &__location,
+  &__rooms {
+    margin-top: 2.5rem;
+  }
 }

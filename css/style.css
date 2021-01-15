@@ -180,7 +180,10 @@ body {
     padding: 1.25rem;
     background-color: #101d2c;
     color: #fff;
-    font-weight: 400; }
+    font-weight: 400;
+    transform: translateY(50%); }
+  .home__location, .home__rooms {
+    margin-top: 2.5rem; }
 
 .gallery {
   background-color: #f9f7f6;
