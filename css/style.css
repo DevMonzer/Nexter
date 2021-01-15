@@ -172,7 +172,15 @@ body {
     grid-column: 1 / -1;
     justify-self: center;
     align-self: end;
-    z-index: 3; }
+    z-index: 3;
+    width: 80%;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 1.6rem;
+    text-align: center;
+    padding: 1.25rem;
+    background-color: #101d2c;
+    color: #fff;
+    font-weight: 400; }
 
 .gallery {
   background-color: #f9f7f6;
