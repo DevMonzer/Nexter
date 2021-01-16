@@ -1,4 +1,6 @@
 .gallery {
   background-color: $color-grey-light-1;
   grid-column: full-start / full-end;
+
+  display: grid;
 }
