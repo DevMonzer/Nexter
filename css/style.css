@@ -234,6 +234,15 @@ body {
   .gallery__item--10 {
     grid-row: 6 / span 2;
     grid-column: 1 / 2; }
+  .gallery__item--11 {
+    grid-row: 6 / span 2;
+    grid-column: 2 / span 2; }
+  .gallery__item--12 {
+    grid-row: 6 / span 2;
+    grid-column: 4 / 5; }
+  .gallery__item--13 {
+    grid-row: 5 / span 3;
+    grid-column: 5 / span 3; }
 
 .footer {
   background-color: #101d2c;
