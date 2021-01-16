@@ -225,6 +225,12 @@ body {
   .gallery__item--7 {
     grid-row: 4 / 5;
     grid-column: 5 / 6; }
+  .gallery__item--8 {
+    grid-row: 3 / span 2;
+    grid-column: 6 / span 2; }
+  .gallery__item--9 {
+    grid-row: 3 / span 3;
+    grid-column: 8 / -1; }
 
 .footer {
   background-color: #101d2c;

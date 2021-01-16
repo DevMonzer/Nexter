@@ -48,5 +48,10 @@
       grid-row: 3 / span 2;
       grid-column: 6 / span 2;
     }
+
+    &--9 {
+      grid-row: 3 / span 3;
+      grid-column: 8 / -1;
+    }
   }
 }
