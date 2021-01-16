@@ -33,5 +33,10 @@
       grid-row: 3 / span 3;
       grid-column: 1 / span 2;
     }
+
+    &--6 {
+      grid-row: 4 / span 2;
+      grid-column: 3 / span 2;
+    }
   }
 }
