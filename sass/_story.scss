@@ -54,6 +54,11 @@
     display: grid;
     align-content: center;
     justify-items: start;
+
+    @media only screen and (max-width: $bp-medium) {
+      grid-column: 1 / -1;
+      grid-row: 5 / 6;
+    }
   }
 
   &__text {
