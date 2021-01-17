@@ -115,6 +115,11 @@ body {
   .header__btn {
     align-self: start;
     justify-self: start; }
+  .header__seenon-text {
+    display: grid;
+    grid-template-columns: 1fr max-content 1fr;
+    grid-column-gap: 1.5rem;
+    align-items: center; }
 
 .realtors {
   background-color: #101d2c;
