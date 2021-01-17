@@ -141,7 +141,12 @@ body {
 .realtors {
   background-color: #101d2c;
   grid-column: col-start 7 / full-end;
-  padding: 3rem; }
+  padding: 3rem;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  grid-row-gap: 2rem; }
 
 .features {
   grid-column: center-start / center-end;
