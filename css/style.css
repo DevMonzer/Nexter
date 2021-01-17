@@ -103,7 +103,9 @@ body {
   background-size: cover;
   background-position: center;
   padding: 8rem;
-  padding-top: 4rem; }
+  padding-top: 4rem;
+  display: grid;
+  grid-template-rows: 1fr min-content minmax(6rem, min-content) 1fr; }
 
 .realtors {
   background-color: #101d2c;

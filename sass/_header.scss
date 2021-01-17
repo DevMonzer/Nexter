@@ -10,4 +10,7 @@
   background-position: center;
   padding: 8rem;
   padding-top: 4rem;
+
+  display: grid;
+  grid-template-rows: 1fr min-content minmax(6rem, min-content) 1fr;
 }
