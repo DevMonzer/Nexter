@@ -147,6 +147,12 @@ body {
   justify-content: center;
   justify-items: center;
   grid-row-gap: 2rem; }
+  .realtors__list {
+    display: grid;
+    grid-template-columns: min-content max-content;
+    grid-column-gap: 2rem;
+    grid-row-gap: 5vh;
+    align-items: center; }
 
 .features {
   grid-column: center-start / center-end;
