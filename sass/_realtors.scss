@@ -16,4 +16,10 @@
     grid-row-gap: 5vh;
     align-items: center;
   }
+
+  &__img {
+    width: 7rem;
+    border-radius: 50%;
+    display: block;
+  }
 }
