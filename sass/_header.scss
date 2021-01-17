@@ -35,5 +35,13 @@
 
     font-size: 1.6rem;
     color: $color-grey-light-2;
+
+    &::before,
+    &::after {
+      content: "";
+      height: 1px;
+      display: block;
+      background-color: currentColor;
+    }
   }
 }
