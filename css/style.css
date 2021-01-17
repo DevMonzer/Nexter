@@ -112,6 +112,9 @@ body {
   .header__logo {
     height: 3rem;
     justify-self: center; }
+  .header__btn {
+    align-self: start;
+    justify-self: start; }
 
 .realtors {
   background-color: #101d2c;
