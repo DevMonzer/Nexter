@@ -109,6 +109,9 @@ body {
   grid-template-columns: minmax(min-content, max-content);
   grid-row-gap: 1.5rem;
   justify-content: center; }
+  .header__logo {
+    height: 3rem;
+    justify-self: center; }
 
 .realtors {
   background-color: #101d2c;

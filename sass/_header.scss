@@ -16,4 +16,9 @@
   grid-template-columns: minmax(min-content, max-content);
   grid-row-gap: 1.5rem;
   justify-content: center;
+
+  &__logo {
+    height: 3rem;
+    justify-self: center;
+  }
 }
