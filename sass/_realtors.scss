@@ -22,4 +22,10 @@
     border-radius: 50%;
     display: block;
   }
+
+  &__sold {
+    text-transform: uppercase;
+    color: $color-grey-light-2;
+    margin-top: -3px;
+  }
 }
