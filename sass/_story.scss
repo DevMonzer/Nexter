@@ -51,6 +51,13 @@
 
     padding: 6rem 8vw;
 
+    /*
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      */
+
     display: grid;
     align-content: center;
     justify-items: start;
