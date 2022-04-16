@@ -1,6 +1,6 @@
 # Nexter
 
-Nexter app watch live -> https://devmonzer.github.io/Nexter/
+Nexter app watch live -> https://devmonzer.github.io/Nexter/ 
 
 ## What to do 
 1. Clone this repo  
