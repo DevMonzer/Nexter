@@ -6,7 +6,7 @@ Nexter app watch live -> https://devmonzer.github.io/Nexter/
 1. Clone this repo    
 2. Run `npm install`to download the node_modules folder   
 3. Enjoy
-  
+   
 ## Technologies ⚙️
 
 * HTML5  
