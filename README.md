@@ -8,7 +8,7 @@ Nexter app watch live -> https://devmonzer.github.io/Nexter/
 3. Enjoy   
    
 ## Technologies ⚙️  
-
+ 
 * HTML5   
 * CSS3 
 * SASS
