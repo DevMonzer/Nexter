@@ -12,6 +12,7 @@ Nexter app watch live -> https://devmonzer.github.io/Nexter/
 * HTML5   
 * CSS3 
 * SASS
+* Advanced CSS3 Grid
 
  
  
