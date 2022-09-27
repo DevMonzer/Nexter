@@ -7,13 +7,13 @@ Nexter app watch live -> https://devmonzer.github.io/Nexter/
 ### Install dependencies
 
 ```bash
-npm install
+Clone the repo
 ```
 
 ### Run
 
 ```bash
-npm start
+Enjoy
 ``` 
    
 ## Technologies ⚙️  
